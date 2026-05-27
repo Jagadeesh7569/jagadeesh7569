@@ -175,6 +175,11 @@ Lovely Professional University · 2020–2024 · CGPA: **7.99 / 10**
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jagadeesh7569&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
+<div>
+ ## Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Jagadeesh7569/Jagadeesh7569/output/github-snake-dark.svg)
+</div>
 
 ---
 
