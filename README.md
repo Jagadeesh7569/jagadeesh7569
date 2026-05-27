@@ -158,6 +158,7 @@ public class Jagadeesh extends BackendDeveloper {
 
 🎓 **B.Tech in Computer Science & Engineering**
 Lovely Professional University · 2020–2024 · CGPA: **7.99 / 10**
+ 
 
 <br/>
 
@@ -176,7 +177,7 @@ Lovely Professional University · 2020–2024 · CGPA: **7.99 / 10**
 
 </div>
 <div>
- ## **Contribution Snake**
+ ## Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Jagadeesh7569/Jagadeesh7569/output/github-snake-dark.svg)
 </div>
